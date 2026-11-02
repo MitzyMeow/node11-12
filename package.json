@@ -29,7 +29,7 @@
     "@types/express-rate-limit": "^3.3.3",
     "@types/rimraf": "^2.0.2",
     "accesscontrol": "^2.2.1",
-    "axios": "^0.18.0",
+    "axios": "^0.34.0",
     "better-youtube-api": "^0.3.6",
     "body-parser": "^1.18.3",
     "canvas": "^2.7.0",
